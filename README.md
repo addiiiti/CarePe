@@ -1,24 +1,50 @@
-# Welcome to your Lovable project
+# CarePe 🏡🤍
 
-## Project info
+**CarePe** is a web application that helps people find trusted local service providers for everyday needs — from plumbing and electrical work to cleaning, cooking, tutoring, and more.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+> _We care for your home, because it’s our home too._
 
-## How can I edit this code?
+The platform is built with a focus on simplicity, trust, and ease of use, making it effortless for users to discover reliable help and for service providers to connect with people who need them.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## ✨ Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- 🔍 Discover nearby service professionals
+- 🧑‍🔧 Separate flows for users and service providers
+- 📍 Location-based service discovery
+- 📅 Simple booking experience
+- 🎨 Clean, calm, and human-centered UI
+- 📱 Responsive design for all screen sizes
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+This project is built using modern frontend tools:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Vite** – Fast development and build tooling  
+- **React** – Component-based UI development  
+- **TypeScript** – Type-safe JavaScript  
+- **Tailwind CSS** – Utility-first styling  
+- **shadcn/ui** – Accessible and customizable UI components  
+
+---
+
+## 🚀 Getting Started
+
+You can run this project locally using your preferred IDE.
+
+### Prerequisites
+- Node.js
+- npm  
+
+> Recommended: Install Node.js using **nvm**  
+> https://github.com/nvm-sh/nvm#installing-and-updating
+
+---
+
+### 📦 Installation & Setup
 
 Follow these steps:
 
@@ -34,40 +60,3 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
