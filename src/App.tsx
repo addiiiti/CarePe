@@ -13,13 +13,17 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
+
       <HashRouter>
         <Routes>
-          <Route path="/" element={<Index />} />
-          {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
+          {/* ✅ ROOT ROUTE */}
+          <Route index element={<Index />} />
+
+          {/* ✅ 404 */}
           <Route path="*" element={<NotFound />} />
         </Routes>
       </HashRouter>
+
     </TooltipProvider>
   </QueryClientProvider>
 );
