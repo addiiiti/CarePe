@@ -8,18 +8,18 @@ The platform is built with a focus on simplicity, trust, and ease of use, making
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔍 Discover nearby service professionals
-- 🧑‍🔧 Separate flows for users and service providers
-- 📍 Location-based service discovery
-- 📅 Simple booking experience
-- 🎨 Clean, calm, and human-centered UI
-- 📱 Responsive design for all screen sizes
+-  Discover nearby service professionals
+-  Separate flows for users and service providers
+-  Location-based service discovery
+-  Simple booking experience
+-  Clean, calm, and human-centered UI
+-  Responsive design for all screen sizes
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 This project is built using modern frontend tools:
 
@@ -31,7 +31,7 @@ This project is built using modern frontend tools:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 You can run this project locally using your preferred IDE.
 
@@ -44,16 +44,16 @@ You can run this project locally using your preferred IDE.
 
 ---
 
-### 📦 Installation & Setup
+###  Installation & Setup
 
 Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <git@github.com:addiiiti/CarePe.git>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <CarePe>
 
 # Step 3: Install the necessary dependencies.
 npm i
