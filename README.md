@@ -1,6 +1,6 @@
 # CarePe 🏡🤍
 
-**CarePe** is a web application that helps people find trusted local service providers for everyday needs — from plumbing and electrical work to cleaning, cooking, tutoring, and more.
+**CarePe** is a web application that helps people find trusted local service providers for everyday needs, from plumbing and electrical work to cleaning, cooking, tutoring, and more.
 
 > _We care for your home, because it’s our home too._
 
